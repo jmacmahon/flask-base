@@ -1,0 +1,16 @@
+{
+    "name": "myapp",
+    "version": "0.0.0",
+    "authors": [
+        "Joe MacMahon <joe@macmahon.eu>"
+    ],
+    "main": "myapp",
+    "license": "AGPL",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
